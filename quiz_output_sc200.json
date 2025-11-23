@@ -1,0 +1,2781 @@
+[
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/introduction-microsoft-365-threat-protection/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which Microsoft Defender XDR solution can detect an Active Directory Domain compromise?",
+        "options": [
+          "Microsoft Defender for Identity",
+          "Microsoft Defender for Endpoint",
+          "Microsoft Defender for Office 365"
+        ],
+        "correct_answers": [
+          "Microsoft Defender for Identity"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which Microsoft Defender XDR solution can detect a phishing email?",
+        "options": [
+          "Microsoft Defender for Identity",
+          "Microsoft Defender for Endpoint",
+          "Microsoft Defender for Office 365"
+        ],
+        "correct_answers": [
+          "Microsoft Defender for Office 365"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which Microsoft Defender XDR solution can detect a malware installation?",
+        "options": [
+          "Microsoft Defender for Identity",
+          "Microsoft Defender for Endpoint",
+          "Microsoft Defender for Office 365"
+        ],
+        "correct_answers": [
+          "Microsoft Defender for Endpoint"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/14-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "When you're reviewing a specific incident, which tab is contained on the incident page?",
+        "options": [
+          "Networks",
+          "Non-Azure Machines",
+          "Assets"
+        ],
+        "correct_answers": [
+          "Assets"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "You can classify an Incident as which of the following?",
+        "options": [
+          "True positive",
+          "High alert",
+          "Test alert"
+        ],
+        "correct_answers": [
+          "True positive"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "The Devices page shows information from which Defender product?",
+        "options": [
+          "Microsoft Cloud App Security",
+          "Microsoft Defender for Identity",
+          "Microsoft Defender for Endpoint"
+        ],
+        "correct_answers": [
+          "Microsoft Defender for Endpoint"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Summary and knowledge check",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/m365-threat-remediate/summary-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "True or false? Microsoft Defender for Office 365 requires an agent to be deployed to all Windows 10 devices in your organization for the best protection.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct_answers": [
+          "False"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "What describes Safe Attachments from Microsoft Defender for Office 365?",
+        "options": [
+          "Messages and attachments are routed to a special environment where Microsoft Defender for Office 365 uses various machine learning and analysis techniques to detect malicious intent.",
+          "Protects your users from malicious URLs in a message or in an Office document.",
+          "A powerful report that enables your Security Operations team to investigate and respond to threats effectively and efficiently."
+        ],
+        "correct_answers": [
+          "Messages and attachments are routed to a special environment where Microsoft Defender for Office 365 uses various machine learning and analysis techniques to detect malicious intent."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which of the following is not an Attack Simulator scenario?",
+        "options": [
+          "Spear phishing",
+          "Password spray",
+          "Bitcoin mining"
+        ],
+        "correct_answers": [
+          "Bitcoin mining"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/manage-azure-active-directory-identity-protection/9-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which task can a user with the Security Operator role perform?",
+        "options": [
+          "Configure alerts",
+          "Confirm safe sign-in",
+          "Reset a password for a user"
+        ],
+        "correct_answers": [
+          "Confirm safe sign-in"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "There are two risk policies that can be enabled in the directory. One is user risk policy. Which is the other risk policy?",
+        "options": [
+          "Mobile device access risk policy",
+          "Sign-in risk policy",
+          "Hybrid identity sign-in risk policy"
+        ],
+        "correct_answers": [
+          "Sign-in risk policy"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "In Microsoft Graph, which three APIs expose information about risky users and sign-ins",
+        "options": [
+          "riskDetection, riskyUsers, signIns",
+          "riskDetection, itemActivity, signIns",
+          "riskyUsers, signIns, IdentitySet"
+        ],
+        "correct_answers": [
+          "riskDetection, riskyUsers, signIns"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Summary and knowledge check",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/m365-threat-safeguard/summary-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Microsoft Defender for Identity requires an on-premises Active Directory environment.",
+        "options": [
+          "True",
+          "False"
+        ],
+        "correct_answers": [
+          "True"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which of the following describes advanced threats detected by Microsoft Defender for Identity?",
+        "options": [
+          "Reconnaissance",
+          "Vertical movements",
+          "Bitcoin mining"
+        ],
+        "correct_answers": [
+          "Reconnaissance"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which of the following is not a supported integration for Microsoft Defender for Identity?",
+        "options": [
+          "Microsoft Defender for Endpoint",
+          "Microsoft Defender for Cloud Apps",
+          "Intune"
+        ],
+        "correct_answers": [
+          "Intune"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-app-security/knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "How can you get an at-a-glance overview of the kinds of apps are being used within your organization?",
+        "options": [
+          "Use Azure Information Protection",
+          "Use Conditional Access",
+          "Use the Cloud Discovery Dashboard"
+        ],
+        "correct_answers": [
+          "Use the Cloud Discovery Dashboard"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "The Defender for Cloud Apps framework includes which of the following?",
+        "options": [
+          "Discover and control the use of Shadow IT",
+          "Block external traffic",
+          "Protect Active Directory"
+        ],
+        "correct_answers": [
+          "Discover and control the use of Shadow IT"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which of these is a feature of Conditional Access App Control policies?",
+        "options": [
+          "Remote access",
+          "Require multi-factor authentication",
+          "Protect on download"
+        ],
+        "correct_answers": [
+          "Protect on download"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 4,
+        "question": "How can you ensure that a file is sent into quarantine for review by an administrator?",
+        "options": [
+          "When creating a file policy, select Quarantine for admin",
+          "When creating a file policy, select Put in admin quarantine",
+          "When creating a file policy, select Put in review for admin"
+        ],
+        "correct_answers": [
+          "When creating a file policy, select Put in admin quarantine"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 5,
+        "question": "Which anomaly detection policy triggers an alert if the same user credentials originate from two geographically distant locations within a short time?",
+        "options": [
+          "Impossible travel",
+          "Impossible distance",
+          "Impossible twins"
+        ],
+        "correct_answers": [
+          "Impossible travel"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/8-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "What is a large language model (LLM)?",
+        "options": [
+          "A type of AI model designed to generate human-like text.",
+          "A model that only processes images, not text.",
+          "A small, efficient model for mobile devices."
+        ],
+        "correct_answers": [
+          "A type of AI model designed to generate human-like text."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "What is the purpose of tokenization?",
+        "options": [
+          "To sort the words in a sentence alphabetically",
+          "To break down text into smaller units.",
+          "To convert text into binary code for processing by computers."
+        ],
+        "correct_answers": [
+          "To break down text into smaller units."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "What are embeddings?",
+        "options": [
+          "Extra words added by a transformer model to enhance text generation.",
+          "Small language models used for specific tasks.",
+          "Vector-based representations of tokens that capture their semantic meaning."
+        ],
+        "correct_answers": [
+          "Vector-based representations of tokens that capture their semantic meaning."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 4,
+        "question": "What does an attention layer do in a transformer model?",
+        "options": [
+          "Removes irrelevant words from the input text.",
+          "Examines the relationships between each token and the tokens around it.",
+          "Flags inappropriate content in the generated text."
+        ],
+        "correct_answers": [
+          "Examines the relationships between each token and the tokens around it."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 5,
+        "question": "What is the purpose of a system prompt?",
+        "options": [
+          "To provide context and instructions to the AI model.",
+          "To configure a generative AI model to run on a particular operating system.",
+          "To store user preferences for future interactions."
+        ],
+        "correct_answers": [
+          "To provide context and instructions to the AI model."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 6,
+        "question": "What is an agent in the context of AI?",
+        "options": [
+          "An AI system that can perform tasks on behalf of a user.",
+          "A generative AI model that operates in secret.",
+          "A human operator to whom generative AI models escalate requests they can't handle."
+        ],
+        "correct_answers": [
+          "An AI system that can perform tasks on behalf of a user."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started/7-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "quiz_type": "embedded",
+    "quiz_data": []
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/security-copilot-describe-core-features/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "A security analyst is using Microsoft Security Copilot and wants to generate insights from their security data. They want to use natural language to do this. Where should they input their request?",
+        "options": [
+          "In the 'Prompt bar'",
+          "In the 'Prompts to try' section",
+          "In the 'Workspaces' section"
+        ],
+        "correct_answers": [
+          "In the 'Prompt bar'"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "A team member needs to set up a new workspace in Copilot for a specific project. What role must this team member have in order to create a new workspace?",
+        "options": [
+          "Security Reader",
+          "Security Administrator",
+          "Billing Administrator"
+        ],
+        "correct_answers": [
+          "Security Administrator"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "A security analyst needs to review past sessions created in Microsoft Security Copilot. After accessing the standalone experience, which option should they select to manage and review these sessions?",
+        "options": [
+          "Select the My sessions option from the home menu.",
+          "Select the Help icon.",
+          "Select settings."
+        ],
+        "correct_answers": [
+          "Select the My sessions option from the home menu."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 4,
+        "question": "A team member is trying to use a non-Microsoft plugin with Microsoft Security Copilot but it appears greyed out and restricted. What could be the possible reason?",
+        "options": [
+          "The plugin isn't supported by Microsoft Security Copilot.",
+          "The plugin requires an account and license to the specific service.",
+          "The Copilot owner has restricted plugin access."
+        ],
+        "correct_answers": [
+          "The Copilot owner has restricted plugin access."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 5,
+        "question": "A security analyst is tasked with automating investigation flows to streamline repetitive steps in Copilot. After selecting relevant prompts from an existing session, the analyst wants to create a promptbook. What should the analyst do next to accomplish this task?",
+        "options": [
+          "Select the 'Create promptbook' icon to open the page where they can name, tag, and further customize the promptbook.",
+          "Select the 'Export prompts' button to download the selected prompts for manual execution.",
+          "Choose the 'Save session' option to preserve the current state of the session for later use."
+        ],
+        "correct_answers": [
+          "Select the 'Create promptbook' icon to open the page where they can name, tag, and further customize the promptbook."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "A security analyst is using Copilot in Microsoft Defender XDR to review an incident and needs to understand the sequence of events that occurred during the attack. Which feature should they use to obtain a comprehensive overview?",
+        "options": [
+          "Script analysis",
+          "Summarize incidents",
+          "Guided responses"
+        ],
+        "correct_answers": [
+          "Summarize incidents"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "An organization's legal compliance team uses Microsoft Purview eDiscovery tools for internal and external investigations and is planning to use Security Copilot to help make them more productive and aid in their investigations. Which of the following statements is true regarding Copilot use with eDiscovery?",
+        "options": [
+          "Copilot functionality isn't supported with Microsoft Purview eDiscovery.",
+          "The organization must be licensed to use Microsoft Purview eDiscovery (Premium).",
+          "The organization needs to be licensed for Microsoft Purview eDiscovery (Standard), as a minimum."
+        ],
+        "correct_answers": [
+          "The organization must be licensed to use Microsoft Purview eDiscovery (Premium)."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "After enabling the Entra plugin in Copilot and assigning the appropriate role permissions, an admin navigates to the Risky users report to investigate a user's risky sign-ins. What should the admin do next to view the Copilot generated summary?",
+        "options": [
+          "Select the 'Export' option to download the user's risk details.",
+          "Check the 'User Activity' log for recent sign-in attempts.",
+          "Select the 'Summarize' tab in the Risky User Details window."
+        ],
+        "correct_answers": [
+          "Select the 'Summarize' tab in the Risky User Details window."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 4,
+        "question": "What information can be obtained by using Copilot in Intune, when creating a new policy?",
+        "options": [
+          "The date and time a policy was last updated.",
+          "The number of users who have accessed a policy.",
+          "Information about individual settings, their impact, and recommended values."
+        ],
+        "correct_answers": [
+          "Information about individual settings, their impact, and recommended values."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 5,
+        "question": "Copilot in Defender for Cloud is available for all users when you enable Defender for Cloud in your environment, have access to Azure Copilot, and have SCUs assigned for Security Copilot. What additional requirement must be met to remediate code with Security Copilot?",
+        "options": [
+          "You must enable all the cloud workload protection plans.",
+          "You must connect your Azure DevOps environment to Defender for Cloud, configure the Microsoft Security DevOps Azure DevOps extension, and meet the DevOps security support and prerequisites requirements.",
+          "You must enable the Defender for Cloud Security Posture Management (DCSPM) plan."
+        ],
+        "correct_answers": [
+          "You must connect your Azure DevOps environment to Defender for Cloud, configure the Microsoft Security DevOps Azure DevOps extension, and meet the DevOps security support and prerequisites requirements."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/security-copilot-exercises/10-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "How do you provision capacity for Microsoft Security Copilot?",
+        "options": [
+          "You can provision capacity by selecting the 'Owner settings' option and then choosing 'Provision capacity.'",
+          "You can provision capacity by selecting the help icon and entering Provision Capacity.",
+          "You can provision capacity by running the wizard that is part of the first run experience Microsoft Security Copilot. Or, by selecting 'Microsoft Security Copilot compute capacities' in the Azure portal and completing the steps."
+        ],
+        "correct_answers": [
+          "You can provision capacity by running the wizard that is part of the first run experience Microsoft Security Copilot. Or, by selecting 'Microsoft Security Copilot compute capacities' in the Azure portal and completing the steps."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "When you add a custom plugin, what are the options that you select as part of the upload process?",
+        "options": [
+          "You can select 'Who can use this plugin' and you upload a file in the format of .docx, .pdf, .txt, or .md.",
+          "You can select 'Who can use this plugin' and you select whether you're uploading a Security Copilot plugin or an OpenAI plugin.",
+          "You start by enabling the option 'Allow Security Copilot to access data from your Microsoft 365 services' then you select whether you're uploading a Security Copilot plugin or an OpenAI plugin."
+        ],
+        "correct_answers": [
+          "You can select 'Who can use this plugin' and you select whether you're uploading a Security Copilot plugin or an OpenAI plugin."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which option best describes the steps involved in creating a custom promptbook.",
+        "options": [
+          "From the owner settings, select the custom promptbook icon, follow the steps in the Create a promptbook page, and select create.",
+          "Start with an existing session. Select the prompts you want to reuse. Then, select the custom promptbook icon, follow the steps in the Create a promptbook page, and select create.",
+          "Select the Sources icon, select files, then upload a .json formatted file that contains the details of the promptbook."
+        ],
+        "correct_answers": [
+          "Start with an existing session. Select the prompts you want to reuse. Then, select the custom promptbook icon, follow the steps in the Create a promptbook page, and select create."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Purview",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/purview-data-loss-prevention-alerts/knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-purview",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "You're investigating a data loss prevention (DLP) alert where a user uploaded a file named 'Budget_2025.xlsx' to a personal cloud storage account. To understand what policy triggered the alert and whether it was a false positive, where should you start your investigation?",
+        "options": [
+          "Microsoft Sentinel",
+          "Microsoft Defender XDR",
+          "Microsoft Purview"
+        ],
+        "correct_answers": [
+          "Microsoft Purview"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "During your investigation, you notice the same user downloaded multiple files from SharePoint earlier that day. Which tool gives you the clearest view of all related activity in one place?",
+        "options": [
+          "Activity explorer",
+          "Microsoft Defender XDR",
+          "Microsoft Purview portal"
+        ],
+        "correct_answers": [
+          "Microsoft Defender XDR"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "You want to ensure another analyst follows up on this DLP alert. What should you do in Microsoft Defender XDR?",
+        "options": [
+          "Assign the incident and update the status",
+          "Add the alert to a SharePoint list",
+          "Set the alert to simulation mode"
+        ],
+        "correct_answers": [
+          "Assign the incident and update the status"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 4,
+        "question": "You confirm the user improperly handled sensitive financial data. What remediation action is appropriate within Microsoft Defender XDR?",
+        "options": [
+          "Disable the user's account or remove file access",
+          "Adjust the DLP policy immediately",
+          "Delete the alert from the incident queue"
+        ],
+        "correct_answers": [
+          "Disable the user's account or remove file access"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 5,
+        "question": "After resolving the incident, what step helps improve your DLP policy and reduce false positives in the future?",
+        "options": [
+          "Tune the DLP policy based on investigation findings",
+          "Reset the policy match counter",
+          "Archive the incident in Microsoft Sentinel"
+        ],
+        "correct_answers": [
+          "Tune the DLP policy based on investigation findings"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Purview",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/purview-insider-risk-investigate-alerts/knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-purview",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Where do you go in Microsoft Purview Insider Risk Management to view all alerts generated by policies?",
+        "options": [
+          "Cases dashboard",
+          "Activity explorer",
+          "Alerts dashboard"
+        ],
+        "correct_answers": [
+          "Alerts dashboard"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "How does the scatter plot in the User activity tab help investigators?",
+        "options": [
+          "It maps user behavior to Microsoft Entra ID roles.",
+          "It visualizes risk-scored events over time to identify sequences and patterns.",
+          "It provides direct access to Copilot summaries for each activity."
+        ],
+        "correct_answers": [
+          "It visualizes risk-scored events over time to identify sequences and patterns."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "What is a recommended next step if an alert involves multiple serious activities across different services?",
+        "options": [
+          "Dismiss the alert to avoid duplication.",
+          "Create a case to manage follow-up actions and collaboration.",
+          "Delete the alert to reduce dashboard clutter."
+        ],
+        "correct_answers": [
+          "Create a case to manage follow-up actions and collaboration."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 4,
+        "question": "What role do cases play in insider risk investigations?",
+        "options": [
+          "They track licensing for each alert.",
+          "They allow grouping and managing alert investigations for a specific user.",
+          "They store Power Automate logs for compliance tracking."
+        ],
+        "correct_answers": [
+          "They allow grouping and managing alert investigations for a specific user."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 5,
+        "question": "Which role is required to use Advanced hunting for insider risk events?",
+        "options": [
+          "Microsoft 365 Compliance Administrator",
+          "Insider Risk Management Analyst or Investigator",
+          "Security Operator"
+        ],
+        "correct_answers": [
+          "Insider Risk Management Analyst or Investigator"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Purview",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/purview-audit-search-investigate/knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-purview",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "What is the main difference between Audit (Standard) and Audit (Premium) regarding audit log retention periods?",
+        "options": [
+          "Audit (Standard) offers a maximum retention period of 180 days.",
+          "Audit (Standard) supports 10-year retention policies.",
+          "Both versions offer indefinite retention."
+        ],
+        "correct_answers": [
+          "Audit (Standard) offers a maximum retention period of 180 days."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "What step should be taken first before searching the audit log in Microsoft Purview?",
+        "options": [
+          "Install the latest updates for Microsoft 365.",
+          "Confirm audit log search is enabled.",
+          "Export the existing audit logs to a CSV file for backup."
+        ],
+        "correct_answers": [
+          "Confirm audit log search is enabled."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "What feature of Microsoft Purview Audit (Premium) is essential for managing sensitive communications securely?",
+        "options": [
+          "Standard data retention.",
+          "Basic audit logs.",
+          "MailItemsAccessed."
+        ],
+        "correct_answers": [
+          "MailItemsAccessed."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 4,
+        "question": "What is the primary purpose of exporting audit logs to CSV in Microsoft Purview Audit?",
+        "options": [
+          "To perform detailed data analysis and meet compliance reporting requirements.",
+          "To reduce the storage space used on servers.",
+          "To enhance the visual presentation of data."
+        ],
+        "correct_answers": [
+          "To perform detailed data analysis and meet compliance reporting requirements."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 5,
+        "question": "How are audit log retention policies prioritized in Microsoft Purview Audit (Premium) when conflicts occur?",
+        "options": [
+          "Based on the date the policy was created.",
+          "Alphabetically by policy name.",
+          "By a priority level set by the administrator."
+        ],
+        "correct_answers": [
+          "By a priority level set by the administrator."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Purview",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/purview-ediscovery-search/knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-purview",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Why is every eDiscovery search in Microsoft Purview associated with a case?",
+        "options": [
+          "To reduce storage costs in Microsoft 365.",
+          "To group searches by workload (like email or Teams).",
+          "To control access and provide an auditable investigation workspace."
+        ],
+        "correct_answers": [
+          "To control access and provide an auditable investigation workspace."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "What roles are required to access and manage eDiscovery cases in Microsoft Purview?",
+        "options": [
+          "Global or Compliance Administrator",
+          "eDiscovery Manager or eDiscovery Administrator",
+          "Security Reader or Microsoft 365 Reader"
+        ],
+        "correct_answers": [
+          "eDiscovery Manager or eDiscovery Administrator"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "What does the Search by file feature in eDiscovery allow you to do?",
+        "options": [
+          "Create search queries using PowerShell scripts only.",
+          "Automatically export search results to a review set.",
+          "Upload sample content to find similar or referenced items."
+        ],
+        "correct_answers": [
+          "Upload sample content to find similar or referenced items."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 4,
+        "question": "What is the purpose of the Statistics result type in eDiscovery search?",
+        "options": [
+          "To view how many items matched your query and where they were found.",
+          "To view each item in full detail for immediate export.",
+          "To monitor the search status in real time as it runs."
+        ],
+        "correct_answers": [
+          "To view how many items matched your query and where they were found."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 5,
+        "question": "What happens when you export search results in Microsoft Purview eDiscovery?",
+        "options": [
+          "Items are automatically deleted from their original location after export.",
+          "Results are packaged with reports and made available for download.",
+          "Search results are immediately added to a review set for further analysis."
+        ],
+        "correct_answers": [
+          "Results are packaged with reports and made available for download."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Summary and knowledge check",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/m365-security-threat-protect/summary-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "What is required to deploy Microsoft Defender for Endpoint to Windows devices in your organization?",
+        "options": [
+          "Subscription to the Microsoft Defender for Endpoint online service.",
+          "No action is required. Microsoft Defender for Endpoint is included in the Windows 10 operating system.",
+          "License for Microsoft Intune."
+        ],
+        "correct_answers": [
+          "Subscription to the Microsoft Defender for Endpoint online service."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which of the following choices describes threat hunting using Microsoft Defender for Endpoint?",
+        "options": [
+          "You can proactively inspect events in your network using a powerful search and query tool.",
+          "Detecting and blocking apps that are considered unsafe but may not be detected as malware.",
+          "Reduce vulnerabilities (attack surfaces) in your applications with intelligent rules that help stop malware."
+        ],
+        "correct_answers": [
+          "You can proactively inspect events in your network using a powerful search and query tool."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which of the following capabilities isn't a component of Microsoft Defender for Endpoint?",
+        "options": [
+          "Next generation protection",
+          "Endpoint detection and response",
+          "Cloud device management"
+        ],
+        "correct_answers": [
+          "Cloud device management"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/deploy-microsoft-defender-for-endpoints-environment/9-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "The default data retention period in Microsoft Defender XDR for Endpoint is?",
+        "options": [
+          "One month",
+          "Six months",
+          "Three months"
+        ],
+        "correct_answers": [
+          "Six months"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which of the following options is a valid Microsoft Defender XDR for Endpoint onboarding option for Windows 10 devices?",
+        "options": [
+          "Group policy",
+          "Microsoft Store",
+          "General install package"
+        ],
+        "correct_answers": [
+          "Group policy"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which security permission allows the configuration of storage settings?",
+        "options": [
+          "Manage security settings in Security Center",
+          "Manage portal system settings",
+          "Advanced commands"
+        ],
+        "correct_answers": [
+          "Manage portal system settings"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/implement-windows-10-security-enhancements-with-microsoft-defender-for-endpoint/4-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which solution is used to control the applications that must earn trust to be run?",
+        "options": [
+          "Exploit protection",
+          "Controlled folder access",
+          "Application control"
+        ],
+        "correct_answers": [
+          "Application control"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which option below is an attack surface reduction rule that can be configured?",
+        "options": [
+          "Block PowerShell from executing",
+          "Block process creations originating from PSExec and WMI commands",
+          "Block content from mobile devices"
+        ],
+        "correct_answers": [
+          "Block process creations originating from PSExec and WMI commands"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which of the following items is a deployment option?",
+        "options": [
+          "PowerShell",
+          "ASRConfig.exe",
+          "Microsoft Deployment System"
+        ],
+        "correct_answers": [
+          "PowerShell"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/perform-device-investigations-microsoft-defender-for-endpoints/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "The security operations analyst discovered an interesting event, what should be done to mark it for further review?",
+        "options": [
+          "Tag",
+          "Highlight",
+          "Flag"
+        ],
+        "correct_answers": [
+          "Flag"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which Behavioral blocking can be used with third-party antivirus?",
+        "options": [
+          "Client behavior blocking.",
+          "EDR in block mode",
+          "Feedback-loop blocking"
+        ],
+        "correct_answers": [
+          "EDR in block mode"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "A Windows 10 Device doesn't appear in the device list, what could be the problem?",
+        "options": [
+          "The Device was renamed.",
+          "The Device is missing the latest KBs",
+          "The Device had no alerts in the past 30 days."
+        ],
+        "correct_answers": [
+          "The Device had no alerts in the past 30 days."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/perform-actions-device-microsoft-defender-for-endpoint/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which type of information is collected in an Investigation package?",
+        "options": [
+          "Command History",
+          "Prefetch Files",
+          "Network transactions"
+        ],
+        "correct_answers": [
+          "Prefetch Files"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which of the actions below is a Device action?",
+        "options": [
+          "Reboot",
+          "Reformat device",
+          "Isolate device"
+        ],
+        "correct_answers": [
+          "Isolate device"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/perform-evidence-entities-investigations-microsoft-defender-for-endpoint/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which of the following artifact types has an investigation page?",
+        "options": [
+          "Domain",
+          "Hunter",
+          "Threat Actor"
+        ],
+        "correct_answers": [
+          "Domain"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "What information is provided by a deep file analysis?",
+        "options": [
+          "Command history",
+          "Registry Modifications",
+          "Code change history"
+        ],
+        "correct_answers": [
+          "Registry Modifications"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which information is provided on the user account page?",
+        "options": [
+          "Associated alerts",
+          "Security groups",
+          "Threat hunt ID"
+        ],
+        "correct_answers": [
+          "Associated alerts"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/configure-manage-automation-microsoft-defender-for-endpoint/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which is a valid remediation level?",
+        "options": [
+          "Semi - require approval for any remediation",
+          "Semi - user accounts only",
+          "Semi - files only"
+        ],
+        "correct_answers": [
+          "Semi - require approval for any remediation"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "A security operations analyst needs to exclude a custom executable file c:\\myapp\\myapp.exe, which exclusion type should they use?",
+        "options": [
+          "File",
+          "Extension",
+          "Folder"
+        ],
+        "correct_answers": [
+          "File"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "In advanced features, which setting should be turned on to block files even if a third-party antivirus is used?",
+        "options": [
+          "Enable EDR in block mode",
+          "Allow or block file",
+          "Automated Investigation"
+        ],
+        "correct_answers": [
+          "Enable EDR in block mode"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/configure-settings-for-alerts-detections-microsoft-defender-for-endpoint/7-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which file type can be used to upload Indicators?",
+        "options": [
+          "JSON",
+          "XML",
+          "CSV"
+        ],
+        "correct_answers": [
+          "CSV"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which type is an accepted indicator type?",
+        "options": [
+          "Certificates",
+          "Email subject line",
+          "Code data"
+        ],
+        "correct_answers": [
+          "Certificates"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which filter is included as part of an Alert notification rule?",
+        "options": [
+          "Alert Severity",
+          "Account",
+          "Subject IDs"
+        ],
+        "correct_answers": [
+          "Alert Severity"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/use-threat-vulnerability-management-microsoft-defender-for-endpoint/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "In the Vulnerable Devices Report, which graphs show each device counted only once based on the highest level of known exploit?",
+        "options": [
+          "Vulnerability age graphs",
+          "Exploit availability graphs",
+          "Severity level graphs"
+        ],
+        "correct_answers": [
+          "Exploit availability graphs"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which report lists the software vulnerabilities your devices are exposed to by listing the Common Vulnerabilities and Exposures (CVE) ID?",
+        "options": [
+          "Event Timeline",
+          "Weakness",
+          "Software Inventory"
+        ],
+        "correct_answers": [
+          "Weakness"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which report or dashboard provides a list of the most recently published threat reports?",
+        "options": [
+          "Vulnerable devices report",
+          "Threat protection",
+          "Threat Analytics"
+        ],
+        "correct_answers": [
+          "Threat Analytics"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Cloud",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/what-is-azure-defender/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-azure-defender",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which of the following describe Microsoft Defender for Cloud's primary role?",
+        "options": [
+          "Cloud security facilitation",
+          "Cloud workload protection",
+          "Cloud configuration management"
+        ],
+        "correct_answers": [
+          "Cloud workload protection"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which Microsoft Defender for Cloud feature enables you to see the topology of your workloads?",
+        "options": [
+          "Inventory",
+          "Secure Score",
+          "Network map"
+        ],
+        "correct_answers": [
+          "Network map"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "To make sure Microsoft Defender for Cloud covers all resources in a Subscription, which option do you enable?",
+        "options": [
+          "Automatic provisioning",
+          "Continuous assessments",
+          "Coverage type"
+        ],
+        "correct_answers": [
+          "Automatic provisioning"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Cloud",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/connect-azure-assets-to-azure-defender/5-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-azure-defender",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which is a Windows security events configuration?",
+        "options": [
+          "Reasonable",
+          "Maximum",
+          "Minimal"
+        ],
+        "correct_answers": [
+          "Minimal"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "What should you install on a new Azure Windows VM if you aren't using auto provisioning?",
+        "options": [
+          "Log Analytics Agent",
+          "Sysmon",
+          "Windows Firewall"
+        ],
+        "correct_answers": [
+          "Log Analytics Agent"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which of these selections is an auto provisioning extension?",
+        "options": [
+          "Policy Add-on for Kubernetes",
+          "Windows Events",
+          "Policy for Azure Policy"
+        ],
+        "correct_answers": [
+          "Policy Add-on for Kubernetes"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Cloud",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/connect-non-azure-machines-to-azure-defender/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-azure-defender",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which is an option to connect your non-Azure computers?",
+        "options": [
+          "Windows Store",
+          "Using Azure Arc enabled servers",
+          "From an Excel spreadsheet"
+        ],
+        "correct_answers": [
+          "Using Azure Arc enabled servers"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which resource can Microsoft Defender for Cloud protect in a hybrid environment?",
+        "options": [
+          "Word Documents",
+          "SQL Databases",
+          "Cosmos DB"
+        ],
+        "correct_answers": [
+          "SQL Databases"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which Cloud provider has a Cloud connector in Security Center?",
+        "options": [
+          "IBM Cloud",
+          "GCP",
+          "Oracle"
+        ],
+        "correct_answers": [
+          "GCP"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Cloud",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/manage-cloud-security-posture-management/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-azure-defender",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "To automatically remediate a recommendation, select which option?",
+        "options": [
+          "Respond",
+          "Remediate",
+          "Fix"
+        ],
+        "correct_answers": [
+          "Fix"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "By default, which security policy is assigned to each subscription?",
+        "options": [
+          "SOC TSP",
+          "Azure Security Benchmark",
+          "ISO 27001:2013"
+        ],
+        "correct_answers": [
+          "Azure Security Benchmark"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Defender for Cloud initiatives are defined in?",
+        "options": [
+          "Azure Policy",
+          "Secure Score",
+          "Workbooks"
+        ],
+        "correct_answers": [
+          "Azure Policy"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Cloud",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/understand-azure-defender-cloud-workload-protection/13-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-azure-defender",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "What is a protection provided by Microsoft Defender for DNS?",
+        "options": [
+          "Malware communicating with C&C server",
+          "Malware encrypting data on a Device",
+          "Malware enumerating user on a Device"
+        ],
+        "correct_answers": [
+          "Malware communicating with C&C server"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Microsoft Defender for Containers does which of the following?",
+        "options": [
+          "Environmental hardening, Vulnerability assessment, and endpoint management",
+          "Environmental hardening, User risk management, and Run-time threat protection",
+          "Environmental hardening, Vulnerability assessment, and Run-time threat protection"
+        ],
+        "correct_answers": [
+          "Environmental hardening, Vulnerability assessment, and Run-time threat protection"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which feature of Microsoft Defender for Servers examines files and registries of the operating system, application software, and others for changes that might indicate an attack?",
+        "options": [
+          "Adaptive application controls",
+          "Adaptive network hardening",
+          "File integrity monitoring"
+        ],
+        "correct_answers": [
+          "File integrity monitoring"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Cloud",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/remediate-azure-defender-security-alerts/7-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-azure-defender",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Defender for Cloud employs which advanced security analytics?",
+        "options": [
+          "Biometric analytics",
+          "Power BI",
+          "Behavioral analytics"
+        ],
+        "correct_answers": [
+          "Behavioral analytics"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which Azure technology is used to automate remediation?",
+        "options": [
+          "Azure Functions",
+          "Azure Batch",
+          "Azure Logic Apps"
+        ],
+        "correct_answers": [
+          "Azure Logic Apps"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "If available, which report provides Attackers tactics, tools, and procedures?",
+        "options": [
+          "Threat Intelligence",
+          "Secure Score",
+          "Incident"
+        ],
+        "correct_answers": [
+          "Threat Intelligence"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/construct-kusto-query-language-statements/9-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-utilize-kql-for-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "What does the search operator do?",
+        "options": [
+          "Searches across tables and isn't column-specific.",
+          "Searches only data in the last hour.",
+          "Searches in columns specified."
+        ],
+        "correct_answers": [
+          "Searches across tables and isn't column-specific."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "What are project operators?",
+        "options": [
+          "Project operators filter a table to the subset of rows that satisfy a predicate.",
+          "Project operators create summarized columns and append them to the result set.",
+          "Project operators add, remove, or rename columns in a result set."
+        ],
+        "correct_answers": [
+          "Project operators add, remove, or rename columns in a result set."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/analyze-results-kusto-query-language/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-utilize-kql-for-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": []
+  },
+  {
+    "learning_path": "SC-200: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/build-multi-table-statements-kusto-query-language/4-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-utilize-kql-for-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which join flavor contains a row in the output for every combination of matching rows from left and right?",
+        "options": [
+          "kind=leftouter",
+          "kind=inner",
+          "kind=fullouter"
+        ],
+        "correct_answers": [
+          "kind=inner"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "When you're using the join operator, how do you specify fields from each table?",
+        "options": [
+          "$1.columname and $2.columnname",
+          "$left.columname and $right.columnname",
+          "$inner.columname and $outer.columnname"
+        ],
+        "correct_answers": [
+          "$left.columname and $right.columnname"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "When you use union on two tables, do the two tables need matching columns?",
+        "options": [
+          "No.",
+          "Yes.",
+          "Only when the project operator is used."
+        ],
+        "correct_answers": [
+          "No."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Create queries for Microsoft Sentinel using Kusto Query Language (KQL)",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/work-with-data-kusto-query-language/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-utilize-kql-for-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which KQL statement should you use to parse external data into a virtual table?",
+        "options": [
+          "parse_json",
+          "extract",
+          "externaldata"
+        ],
+        "correct_answers": [
+          "externaldata"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "A Dynamic field contains which of the following items?",
+        "options": [
+          "Calculated data.",
+          "Key-value pair data.",
+          "External data."
+        ],
+        "correct_answers": [
+          "Key-value pair data."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "To create a virtual table, save your KQL as a which type?",
+        "options": [
+          "Module.",
+          "Function.",
+          "Definition."
+        ],
+        "correct_answers": [
+          "Function."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Configure your Microsoft Sentinel environment",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/intro-to-azure-sentinel/5-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-configure-your-azure-sentinel-environment",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "What does Microsoft Sentinel provide?",
+        "options": [
+          "A solution for checking your security posture in the cloud",
+          "An end-to-end solution for security operations",
+          "A solution for securely storing keys and secrets in the cloud"
+        ],
+        "correct_answers": [
+          "An end-to-end solution for security operations"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which language is used to query data within Microsoft Sentinel?",
+        "options": [
+          "SQL",
+          "GraphQL",
+          "KQL"
+        ],
+        "correct_answers": [
+          "KQL"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which Azure service stores the log data that is ingested into Microsoft Sentinel?",
+        "options": [
+          "Azure Data Factory",
+          "Log Analytics",
+          "Azure Monitor"
+        ],
+        "correct_answers": [
+          "Log Analytics"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Configure your Microsoft Sentinel environment",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/create-manage-azure-sentinel-workspaces/8-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-configure-your-azure-sentinel-environment",
+    "quiz_type": "embedded",
+    "quiz_data": []
+  },
+  {
+    "learning_path": "SC-200: Configure your Microsoft Sentinel environment",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/query-logs-azure-sentinel/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-configure-your-azure-sentinel-environment",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which table stores Defender for Endpoint logon events?",
+        "options": [
+          "DeviceLogonEvents",
+          "OfficeActivity",
+          "SigninLogs"
+        ],
+        "correct_answers": [
+          "DeviceLogonEvents"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "What table contains logs from Windows hosts collected directly to Microsoft Sentinel?",
+        "options": [
+          "SecurityEvent",
+          "AuditLogs",
+          "SecurityAlert"
+        ],
+        "correct_answers": [
+          "SecurityEvent"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which table stores Alerts from Microsoft Defender for Endpoint?",
+        "options": [
+          "SecurityIncident",
+          "DeviceEvents",
+          "SecurityAlert"
+        ],
+        "correct_answers": [
+          "SecurityAlert"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Configure your Microsoft Sentinel environment",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/use-watchlists-azure-sentinel/5-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-configure-your-azure-sentinel-environment",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which of the following operations is a typical scenario for using a Microsoft Sentinel watchlist?",
+        "options": [
+          "Creating more alerts to help identify issues.",
+          "Export business data as a watchlist.",
+          "Responding to incidents quickly with the rapid import of IP addresses."
+        ],
+        "correct_answers": [
+          "Responding to incidents quickly with the rapid import of IP addresses."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "How do you access a new watchlist named MyList in KQL?",
+        "options": [
+          "_Watchlist('MyList ')",
+          "_GetWatchlist('MyList')",
+          "_Getlist('MyList ')"
+        ],
+        "correct_answers": [
+          "_GetWatchlist('MyList')"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Configure your Microsoft Sentinel environment",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/utilize-threat-intelligence-azure-sentinel/5-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-configure-your-azure-sentinel-environment",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "In Threat Intelligence, indicators are considered as which of the following?",
+        "options": [
+          "Strategic",
+          "Operational",
+          "Tactical"
+        ],
+        "correct_answers": [
+          "Tactical"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which of these items is an example of a Threat indicator?",
+        "options": [
+          "Threat Actor Name",
+          "Domain Name",
+          "Threat Campaign"
+        ],
+        "correct_answers": [
+          "Domain Name"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "What table do you query in KQL to view your indicators?",
+        "options": [
+          "Indicator",
+          "TI Indicator",
+          "ThreatIntelligenceIndicator"
+        ],
+        "correct_answers": [
+          "ThreatIntelligenceIndicator"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Configure your Microsoft Sentinel environment",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/integrate-microsoft-defender-xdr-with-microsoft-sentinel/knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-configure-your-azure-sentinel-environment",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "What is one of the benefits of integrating Microsoft Sentinel and Defender XDR in the Defender portal?",
+        "options": [
+          "It increases the complexity of managing and switching between multiple tools.",
+          "It streamlines operations and reduces the risk of errors that can occur when switching between different systems.",
+          "It requires context-switching when querying across different data sets."
+        ],
+        "correct_answers": [
+          "It streamlines operations and reduces the risk of errors that can occur when switching between different systems."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which portal supports the functionality of adding entities to threat intelligence from incidents in Microsoft Sentinel?",
+        "options": [
+          "Both Azure and Defender portals",
+          "Azure portal",
+          "Defender portal"
+        ],
+        "correct_answers": [
+          "Azure portal"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "What is one of the product changes associated with connecting a workspace to Defender XDR?",
+        "options": [
+          "Microsoft Sentinel Reader role is assigned to the Microsoft Threat Protection and WindowsDefenderATP apps within the subscription.",
+          "All Microsoft security incident creation rules are activated to avoid duplicate incidents.",
+          "Log tables, queries, and functions in the Microsoft Sentinel workspace are also available in advanced hunting within Defender XDR."
+        ],
+        "correct_answers": [
+          "Log tables, queries, and functions in the Microsoft Sentinel workspace are also available in advanced hunting within Defender XDR."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 4,
+        "question": "What happens when a workspace is disconnected from the Defender portal in Microsoft Sentinel?",
+        "options": [
+          "The Microsoft Sentinel section is removed from the left-hand side navigation of the Defender portal",
+          "The workspace is deleted from Microsoft Sentinel",
+          "Data from Microsoft Sentinel is still included on the Overview page"
+        ],
+        "correct_answers": [
+          "The Microsoft Sentinel section is removed from the left-hand side navigation of the Defender portal"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Connect logs to Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/connect-data-to-azure-sentinel-with-data-connectors/5-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-connect-logs-to-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Where can you see the number of connected Windows hosts?",
+        "options": [
+          "On the CEF Connector page",
+          "On the Agents page in Log Analytics",
+          "On the Data connectors page"
+        ],
+        "correct_answers": [
+          "On the Agents page in Log Analytics"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which connector provides the log data in an unparsed field?",
+        "options": [
+          "Microsoft Entra ID",
+          "Syslog",
+          "CEF"
+        ],
+        "correct_answers": [
+          "Syslog"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "The vendor-provided connectors primarily use which of the following?",
+        "options": [
+          "Azure Activity Connector",
+          "Security Events Connector",
+          "CEF Connector"
+        ],
+        "correct_answers": [
+          "CEF Connector"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Connect logs to Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/connect-microsoft-services-to-azure-sentinel/7-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-connect-logs-to-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which table (data type) would you query for the Microsoft Entra data?",
+        "options": [
+          "OfficeActivity",
+          "SigninLogs",
+          "SecurityAlert"
+        ],
+        "correct_answers": [
+          "SigninLogs"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which table (data type) would you query for the Microsoft 365 data?",
+        "options": [
+          "OfficeActivity",
+          "SecurityAlert",
+          "SigninLogs"
+        ],
+        "correct_answers": [
+          "OfficeActivity"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which table (data type) would you query for the Microsoft Entra ID Protection data?",
+        "options": [
+          "OfficeActivity",
+          "SigninLogs",
+          "SecurityAlert"
+        ],
+        "correct_answers": [
+          "SecurityAlert"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Connect logs to Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/connect-microsoft-defender-365-to-azure-sentinel/7-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-connect-logs-to-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which connector would you use to connect the raw data from Microsoft Defender for Endpoint?",
+        "options": [
+          "Microsoft Defender for Office 365",
+          "Microsoft Defender for Endpoint",
+          "Microsoft Defender XDR"
+        ],
+        "correct_answers": [
+          "Microsoft Defender XDR"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which Microsoft security product is part of the Microsoft Defender XDR suite of products?",
+        "options": [
+          "Microsoft Defender for Cloud Apps",
+          "Microsoft Purview Information Protection",
+          "Microsoft Entra ID"
+        ],
+        "correct_answers": [
+          "Microsoft Defender for Cloud Apps"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which table (Data type) does the Microsoft Defender XDR connector write to?",
+        "options": [
+          "SecurityAlert",
+          "CommonSecurityLog",
+          "SecurityEvent"
+        ],
+        "correct_answers": [
+          "SecurityAlert"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Connect logs to Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/connect-windows-hosts-to-azure-sentinel/4-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-connect-logs-to-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which connector do you use to collect Windows security events?",
+        "options": [
+          "Windows Security Events via AMA",
+          "Common Event Format",
+          "Syslog"
+        ],
+        "correct_answers": [
+          "Windows Security Events via AMA"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "To collect Sysmon events with the Security Events connector, what is the log name used to collect it in advanced settings?",
+        "options": [
+          "Microsoft-Windows-Sysmon/Operational",
+          "Microsoft-Windows-Sysmon/Events",
+          "Microsoft-Windows-Sysmon/Logs"
+        ],
+        "correct_answers": [
+          "Microsoft-Windows-Sysmon/Operational"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which table contains the ingested Sysmon events?",
+        "options": [
+          "Event",
+          "CommonSecurityLog",
+          "SecurityEvents"
+        ],
+        "correct_answers": [
+          "Event"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Connect logs to Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/connect-common-event-format-logs-to-azure-sentinel/4-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-connect-logs-to-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "The CEF connector writes to which table?",
+        "options": [
+          "CommonSecurityLog",
+          "SecurityEvent",
+          "Syslog"
+        ],
+        "correct_answers": [
+          "CommonSecurityLog"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "The CEF connector deploys what type of forwarder?",
+        "options": [
+          "Syslog",
+          "Event",
+          "Sysmon"
+        ],
+        "correct_answers": [
+          "Syslog"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "The CEF connector can be deployed on which platform?",
+        "options": [
+          "Azure Windows Virtual Machine",
+          "On-premises Windows Host",
+          "Azure Linux Virtual Machine"
+        ],
+        "correct_answers": [
+          "Azure Linux Virtual Machine"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Connect logs to Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/connect-syslog-data-sources-to-azure-sentinel/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-connect-logs-to-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "What field contains the unstructured event data?",
+        "options": [
+          "SyslogData",
+          "SyslogEvent",
+          "SyslogMessage"
+        ],
+        "correct_answers": [
+          "SyslogMessage"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "To create a parser in the Log query window, save the query as which of the following?",
+        "options": [
+          "Module",
+          "Function",
+          "Table"
+        ],
+        "correct_answers": [
+          "Function"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "The Syslog connector can be deployed on which platform?",
+        "options": [
+          "Azure Windows Virtual Machine",
+          "On-premise Windows Host",
+          "Azure Linux Virtual Machine"
+        ],
+        "correct_answers": [
+          "Azure Linux Virtual Machine"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Connect logs to Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/connect-threat-indicators-to-azure-sentinel/7-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-connect-logs-to-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "What table do you query in KQL to view your indicators?",
+        "options": [
+          "\"Indicator\"",
+          "\"TIIndicator\"",
+          "\"ThreatIntelligenceIndicator\""
+        ],
+        "correct_answers": [
+          "\"ThreatIntelligenceIndicator\""
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which version of TAXII is supported?",
+        "options": [
+          "1.1",
+          "1.0",
+          "2.1"
+        ],
+        "correct_answers": [
+          "2.1"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Threat Intelligence Upload API uses which technology to authenticate with Microsoft Entra ID?",
+        "options": [
+          "Microsoft Azure managed identities",
+          "Multifactor authentication",
+          "OAuth 2.0 authentication"
+        ],
+        "correct_answers": [
+          "OAuth 2.0 authentication"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Create detections and perform investigations using Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/automation-microsoft-sentinel/4-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Automation rules are triggered by?",
+        "options": [
+          "Incidents",
+          "Connectors",
+          "Watchlists"
+        ],
+        "correct_answers": [
+          "Incidents"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "You use a Logic Apps to create a_?",
+        "options": [
+          "Automation rule",
+          "Playbook",
+          "Workbook"
+        ],
+        "correct_answers": [
+          "Playbook"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "An Automation rule action can?",
+        "options": [
+          "Update the incident title",
+          "Delete the incident",
+          "Change the incident status"
+        ],
+        "correct_answers": [
+          "Change the incident status"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Create detections and perform investigations using Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/use-entity-behavior-analytics-azure-sentinel/5-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "What are Entities?",
+        "options": [
+          "Data elements",
+          "Tables",
+          "Alerts"
+        ],
+        "correct_answers": [
+          "Data elements"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "In the timeline of the Entity page, what type of items are an aggregation of notable events relating to the entity?",
+        "options": [
+          "Alerts",
+          "Activities",
+          "Bookmarks"
+        ],
+        "correct_answers": [
+          "Activities"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "When you're viewing the investigation graph, what option will show Entity Behavior information?",
+        "options": [
+          "Entities",
+          "Timeline",
+          "Insights"
+        ],
+        "correct_answers": [
+          "Insights"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Create detections and perform investigations using Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/data-normalization-microsoft-sentinel/7-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "When creating a Workspace transformation DCR.  What is the name of the virtual table to query?",
+        "options": [
+          "source",
+          "input",
+          "target"
+        ],
+        "correct_answers": [
+          "source"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "What is an ASIM parser in KQL?",
+        "options": [
+          "Variable",
+          "Function",
+          "Aggregate"
+        ],
+        "correct_answers": [
+          "Function"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Every schema that supports filtering parameters supports at least the parameter?",
+        "options": [
+          "createdon",
+          "ingestiontime",
+          "starttime"
+        ],
+        "correct_answers": [
+          "starttime"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Create detections and perform investigations using Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/manage-content-microsoft-sentinel/4-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-create-detections-perform-investigations-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "You can connect Microsoft Sentinel to which repositories?",
+        "options": [
+          "Azure DevOps only",
+          "GitHub only",
+          "GitHub and Azure DevOps"
+        ],
+        "correct_answers": [
+          "GitHub and Azure DevOps"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which content type is supported by content hub solutions?",
+        "options": [
+          "Advanced Multistage Attack Detection Fusion Rule",
+          "Parsers",
+          "Search job"
+        ],
+        "correct_answers": [
+          "Parsers"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "What is the maximum number of repository connections allowed for each Microsoft Sentinel workspace?",
+        "options": [
+          "Three",
+          "Five",
+          "Ten"
+        ],
+        "correct_answers": [
+          "Five"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Perform threat hunting in Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/what-is-threat-hunting-azure-sentinel/4-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-perform-threat-hunting-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "Which of the following best describes a good Hypothesis?",
+        "options": [
+          "is Time-bound",
+          "focuses on known Indicators",
+          "focuses on all current threats"
+        ],
+        "correct_answers": [
+          "is Time-bound"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Threat Hunting is considered which of the following?",
+        "options": [
+          "Retroactive.",
+          "Reactive.",
+          "Proactive."
+        ],
+        "correct_answers": [
+          "Proactive."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "\"We want to check which accounts have run cmd.exe.\" Why is this hypothesis poor?",
+        "options": [
+          "Cmd.exe isn't a program.",
+          "Accounts aren't associated with the running of cmd.exe",
+          "The scope is too broad."
+        ],
+        "correct_answers": [
+          "The scope is too broad."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Perform threat hunting in Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/use-search-jobs-microsoft-sentinel/4-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-perform-threat-hunting-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "When you're restoring an archive log, what will the table suffix be?",
+        "options": [
+          "_RST",
+          "_Restore",
+          "_RSTR"
+        ],
+        "correct_answers": [
+          "_RST"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "What is the suffix for the search result tables?",
+        "options": [
+          "_SR",
+          "_SRCH",
+          "_SCH"
+        ],
+        "correct_answers": [
+          "_SRCH"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "Which log types are supported by Search jobs?",
+        "options": [
+          "Analytics logs only.",
+          "Basic logs only.",
+          "Analytics logs and Basic logs."
+        ],
+        "correct_answers": [
+          "Analytics logs and Basic logs."
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  },
+  {
+    "learning_path": "SC-200: Perform threat hunting in Microsoft Sentinel",
+    "module_title": "Module assessment",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/perform-threat-hunting-sentinel-with-notebooks/6-knowledge-check/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-perform-threat-hunting-azure-sentinel",
+    "quiz_type": "embedded",
+    "quiz_data": [
+      {
+        "question_number": 1,
+        "question": "The msticpy package provides which of the following functionality?",
+        "options": [
+          "Data wrangling",
+          "Analyzing data",
+          "Creating data"
+        ],
+        "correct_answers": [
+          "Analyzing data"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 2,
+        "question": "Which is a component of notebooks in Microsoft Sentinel?",
+        "options": [
+          "Telemetry analyzer",
+          "Kernel",
+          "Workbook"
+        ],
+        "correct_answers": [
+          "Kernel"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      },
+      {
+        "question_number": 3,
+        "question": "What coding language is most commonly used in the sample Notebooks?",
+        "options": [
+          "Python",
+          "C#",
+          "Java"
+        ],
+        "correct_answers": [
+          "Python"
+        ],
+        "type": "multiple_choice",
+        "explanation": ""
+      }
+    ]
+  }
+]

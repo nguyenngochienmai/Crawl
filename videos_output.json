@@ -1,0 +1,227 @@
+[
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Manage incidents",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/3-manage-incidents/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=208a5393-24b6-4f17-8523-e78bdb5a34cc%3F&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fmitigate-incidents-microsoft-365-defender%2F3-manage-incidents",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Manage and investigate alerts",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/5-manage-investigate-alerts/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=8a9c08a6-558c-47a8-a336-d748acbdaa80&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fmitigate-incidents-microsoft-365-defender%2F5-manage-investigate-alerts",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Manage automated investigations",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/6-manage-automated-investigations/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=340dee63-452a-4d4b-9ca3-562206a4bc23&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fmitigate-incidents-microsoft-365-defender%2F6-manage-automated-investigations",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Explore advanced hunting",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/mitigate-incidents-microsoft-365-defender/8-explore-advanced-hunting/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=197cbd32-a06e-4efc-ade0-0c9875d7b105&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fmitigate-incidents-microsoft-365-defender%2F8-explore-advanced-hunting",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Introduction",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/manage-azure-active-directory-identity-protection/1-introduction/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=0266c208-6909-4ac4-8c70-219f866d5390&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fmanage-azure-active-directory-identity-protection%2F1-introduction",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Implement and manage user risk policy",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/manage-azure-active-directory-identity-protection/3-implement-manage-user-risk-policy/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=c1974080-b372-4051-8100-ad7eb5b1bfb0&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fmanage-azure-active-directory-identity-protection%2F3-implement-manage-user-risk-policy",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender XDR",
+    "module_title": "Walk through discovery and access control with Microsoft Defender for Cloud Apps",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/microsoft-cloud-app-security/walkthrough/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-365-defender",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=a722f8cd-806b-40dd-ad93-139fa2b487b9&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fmicrosoft-cloud-app-security%2Fwalkthrough",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Introduction",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/1-introduction/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=8576cbbe-fdeb-4eeb-9271-1d2c97293b44&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Ffundamentals-generative-ai%2F1-introduction",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Large language models (LLMs)",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/3-language-models/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=fdb3cc8e-1efb-4d2e-8c63-06048ecdbdfb&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Ffundamentals-generative-ai%2F3-language-models",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Prompts",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/6-writing-prompts/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=781d38e5-5a58-4ba9-b6c6-8b7e9f03f5a8&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Ffundamentals-generative-ai%2F6-writing-prompts",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "AI agents",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/7-agents/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=6ee42a95-da4a-46bf-9cad-0ef84acf8922&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Ffundamentals-generative-ai%2F7-agents",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Summary",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/fundamentals-generative-ai/9-summary/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=d4576e9f-45bb-4e50-8e89-06d8f76cfd04&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Ffundamentals-generative-ai%2F9-summary",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Get acquainted with Microsoft Security Copilot",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started/2-describe-security-copilot/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=257c1a95-04fb-422e-add2-51e91388ae5f&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fsecurity-copilot-getting-started%2F2-describe-security-copilot",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Describe the elements of an effective prompt",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/security-copilot-getting-started/5-create-effective-prompts/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=b7fe7b15-6342-4f0b-bed0-9e8ad118ad96&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fsecurity-copilot-getting-started%2F5-create-effective-prompts",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Describe the non-Microsoft plugins supported by Microsoft Security Copilot",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/security-copilot-describe-core-features/4-describe-non-microsoft-plugins/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=f57f9efb-d800-4436-85cb-02f34811c608&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fsecurity-copilot-describe-core-features%2F4-describe-non-microsoft-plugins",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Describe custom promptbooks",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/security-copilot-describe-core-features/5-describe-custom-promptbooks/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=e23f15a4-80a4-445e-aaac-34f1fe14a53b&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fsecurity-copilot-describe-core-features%2F5-describe-custom-promptbooks",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Security Copilot",
+    "module_title": "Describe Copilot in Microsoft Defender XDR",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/security-copilot-embedded-experiences/2-copilot-for-defender/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-copilot-for-security",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=34619a9e-4d95-46c4-8114-2320e0626962&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fsecurity-copilot-embedded-experiences%2F2-copilot-for-defender",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Manage access",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/deploy-microsoft-defender-for-endpoints-environment/5-manage-access/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=c9903800-3d26-4b30-bd0b-fed00dfc6a5c&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fdeploy-microsoft-defender-for-endpoints-environment%2F5-manage-access",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Use behavioral blocking",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/perform-device-investigations-microsoft-defender-for-endpoints/4-use-behavioral-blocking/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=69b80126-fa43-4f52-b89d-e4ebc3aba0a4&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fperform-device-investigations-microsoft-defender-for-endpoints%2F4-use-behavioral-blocking",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Detect devices with device discovery",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/perform-device-investigations-microsoft-defender-for-endpoints/5-detect-devices-with-device-discovery/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=c8e97473-5d33-4e67-bd36-7b608f678262&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fperform-device-investigations-microsoft-defender-for-endpoints%2F5-detect-devices-with-device-discovery",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Initiate live response session",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/perform-actions-device-microsoft-defender-for-endpoint/5-initiate-live-response-session/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=38c8abec-021a-4cda-9198-5ff6402a79ee&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fperform-actions-device-microsoft-defender-for-endpoint%2F5-initiate-live-response-session",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Investigate a file",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/perform-evidence-entities-investigations-microsoft-defender-for-endpoint/2-investigate-file/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=c6c613b8-28dc-40cc-926d-8469472ebdfb&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fperform-evidence-entities-investigations-microsoft-defender-for-endpoint%2F2-investigate-file",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Configure automated investigation and remediation capabilities",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/configure-manage-automation-microsoft-defender-for-endpoint/4-configure-automated-investigation-remediation-capabilities/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=b0036055-7d62-4877-803c-9fddec9ad727&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fconfigure-manage-automation-microsoft-defender-for-endpoint%2F4-configure-automated-investigation-remediation-capabilities",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Manage indicators",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/configure-settings-for-alerts-detections-microsoft-defender-for-endpoint/5-manage-indicators/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=a4469df9-4f31-4ed0-9577-8b26ac5293ad&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fconfigure-settings-for-alerts-detections-microsoft-defender-for-endpoint%2F5-manage-indicators",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  },
+  {
+    "learning_path": "SC-200: Mitigate threats using Microsoft Defender for Endpoint",
+    "module_title": "Understand vulnerability management",
+    "module_url": "https://learn.microsoft.com/en-us/training/modules/use-threat-vulnerability-management-microsoft-defender-for-endpoint/2-understand-threat-vulnerability-management/?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.sc-200-mitigate-threats-using-microsoft-defender-for-endpoint",
+    "video_platform": "Microsoft Stream",
+    "video_type": "microsoft_stream",
+    "video_embed_url": "https://learn-video.azurefd.net/vod/player?id=adecfa2a-9240-4610-a2d0-94d01127d42f&locale=en-us&embedUrl=%2Ftraining%2Fmodules%2Fuse-threat-vulnerability-management-microsoft-defender-for-endpoint%2F2-understand-threat-vulnerability-management",
+    "download_note": "Requires Microsoft account and Stream Recorder extension"
+  }
+]
